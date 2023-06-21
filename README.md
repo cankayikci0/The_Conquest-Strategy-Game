@@ -42,5 +42,5 @@ How to play?
  
 9. At the beginning of the game you will have 100 gold. In every round 20 gold will be given to you.  
 10. After 10 rounds the player who has more areas will win the game. 
-11. Most importantly, enjoy our game. :)
+11. Enjoy our game. :)
 
