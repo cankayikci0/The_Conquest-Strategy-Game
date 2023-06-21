@@ -2,7 +2,7 @@
 
 
 The Conquest
-The Conquest is a game which 2 player is playing at the same time. It is a strategy game in which you try to defeat other player with conquering theirs areas.
+The Conquest is a game which 2 player is playing at the same time. It is a strategy game in which you try to defeat other player with conquering their areas.
 
 
 How to play?
